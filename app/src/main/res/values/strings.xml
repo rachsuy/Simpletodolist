@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleTodoList</string>
+    <string name="bouton_edit">AddFruit</string>
+</resources>
